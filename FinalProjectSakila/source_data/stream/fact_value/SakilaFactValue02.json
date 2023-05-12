@@ -1,0 +1,20 @@
+[
+	{
+		"fact_value_key" : 2,
+		"film_key" : 83,
+		"inventory_key" : 377,
+		"rental_key" : 591,
+		"store_key" : 2,
+		"title" : "BLUES INSTINCT",
+		"release_year" : 2006,
+		"rating" : "G",
+		"language_id" : 1,
+		"rental_rate" : 2.99,
+		"amount" : 2.99,
+		"replacement_cost" : 18.99,
+		"rental_date_key" : 20050528,
+		"payment_date_key" : 20050528,
+		"return_date_key" : 20050529,
+		"last_update" : "2006-02-15 21:30:53"
+	}
+]
